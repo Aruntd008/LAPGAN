@@ -1,0 +1,15 @@
+/.vscode
+/gen_4.ipynb
+/lapgan.onnx
+/lapgan_model.pth
+/lapgan_model_re.pth
+/layers.py
+/losses.py
+/Models
+/tinyimagenet.ipynb
+/Unet_lapgan copy 2.ipynb
+/Unet_lapgan copy.ipynb
+/UNet_LAPGan Eminist.ipynb
+/Unet_lapgan.ipynb
+/wandb
+/__pycache__
